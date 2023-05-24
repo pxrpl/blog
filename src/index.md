@@ -1,5 +1,5 @@
 ---
-title: My first page
+title: My first pages
 layout: base.njk
 ---
 
