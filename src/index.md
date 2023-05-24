@@ -6,7 +6,7 @@ layout: base.njk
 
 yo wassup fam
 
-## Blog posts
+## Blog posts\
 
 <ul>
 {% for post in collections.posts %}
