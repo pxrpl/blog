@@ -2,6 +2,7 @@
 title: Home
 layout: base.njk
 ---
+Hello, welcome to my site  
 
 ## Posts\
 

@@ -1,4 +1,4 @@
 ---
-layout: layouts/footer.njk
+layout: footer.njk
 templateEngineOverride: md
 ---
