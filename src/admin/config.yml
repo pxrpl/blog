@@ -5,10 +5,6 @@ backend:
 
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
-media_library:
-  name: uploadcare
-  config:
-    publicKey: your_public_key
 
 collections:
   - name: "blog"
