@@ -1,6 +1,6 @@
 ---
 title: New site, new times
-date: 2023-05-27
+date: 2023-05-23
 ---
 
 Yep, it's official, I changed my site's style and overall structure. Tell me what you thing about it,  
