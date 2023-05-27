@@ -1,17 +1,19 @@
 backend:
   name: git-gateway
-  branch: main
+  branch: main 
   publish_mode: editorial_workflow
-  media_folder: "public/images/uploads"
-  public_folder: "/images/uploads"
-  collections:
-    - name: "blog"
-      label: "Blog"
-      folder: "src/posts"
-      create: true
-      slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-      fields: 
-        - { label: "Title", name: "title", widget: "string" }
-        - { label: "Date", name: "date", widget: "datetime" }
-        - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
-        - { label: "Body", name: "body", widget: "markdown" }
+
+media_folder: "public/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "src/posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: 
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
+      - { label: "Body", name: "body", widget: "markdown" }
