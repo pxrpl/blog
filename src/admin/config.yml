@@ -7,7 +7,7 @@ backend:
   media_folder: "public/images/uploads"
   public_folder: "/images/uploads"
   collections:
-        - name: "blog"
+         - name: "blog"
           label: "Blog"
           folder: "src/posts"
           create: true
