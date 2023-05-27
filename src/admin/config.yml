@@ -2,6 +2,7 @@ backend:
   name: git-gateway
   branch: main 
   publish_mode: editorial_workflow
+  site_url: https://vcnt.eu
   logo_url: https://vcnt.eu/images/logo.png
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
