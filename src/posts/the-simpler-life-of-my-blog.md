@@ -1,6 +1,6 @@
 ---
 
-title: New site, new times
+title: The simpler life of my blog
 
 date: 2023-05-27
 
