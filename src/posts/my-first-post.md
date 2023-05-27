@@ -1,5 +1,5 @@
 ---
-title: My first post
+title: New site, new times
 date: 2023-05-27
 ---
 
