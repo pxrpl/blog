@@ -1,19 +1,17 @@
 backend:
   name: git-gateway
-  branch: main 
-# This line should *not* be indented
+  branch: main
   publish_mode: editorial_workflow
-
   media_folder: "public/images/uploads"
   public_folder: "/images/uploads"
   collections:
-         - name: "blog"
-          label: "Blog"
-          folder: "src/posts"
-          create: true
-          slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-          fields: 
-             - { label: "Title", name: "title", widget: "string" }
-             - { label: "Date", name: "date", widget: "datetime" }
-             - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
-             - { label: "Body", name: "body", widget: "markdown" }
+    - name: "blog"
+      label: "Blog"
+      folder: "src/posts"
+      create: true
+      slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+      fields: 
+        - { label: "Title", name: "title", widget: "string" }
+        - { label: "Date", name: "date", widget: "datetime" }
+        - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
+        - { label: "Body", name: "body", widget: "markdown" }
