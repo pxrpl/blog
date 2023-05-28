@@ -2,8 +2,6 @@
 title: The Illuminati Society
 date: 2023-05-28
 ---
-![origins.jpg](/images/uploads/origins.jpg)
-
 # Introduction
 
  <img src="/images/uploads/vault/illuminati.png" alt="Illuminati" height="200px" style="float: right; margin-left: 10px;">
@@ -11,6 +9,8 @@ date: 2023-05-28
 For centuries, the Illuminati society has captivated the imaginations and fueled the curiosity of those seeking to understand the hidden workings of the world. Cloaked in secrecy, this clandestine organization has become a subject of fascination and speculation, inspiring countless conspiracy theories and becoming synonymous with mystery and intrigue. In this article, I will attempt to shed light on the enigmatic Illuminati society, separating fact from fiction and exploring its historical origins, alleged influence, and controversial significance.
 
 # Historical Origins
+
+<img src="/images/uploads/origins.jpg" alt="Origins" height="150px" style="float: right; margin-left: 10px;">
 
 The roots of the Illuminati can be traced back to the 18th century Bavaria, Germany. Founded on May 1, 1776, by Adam Weishaupt, a professor of law, the Illuminati was initially a secret society committed to promoting enlightenment ideals and intellectual freedom. Weishaupt's vision was to challenge the oppressive power structures of the time and encourage critical thinking and rationality. However, the society's activities and intentions soon became the subject of suspicion and speculation.
 
