@@ -14,8 +14,8 @@ editor:
   preview: true
 
 stylesheets:
-  - src/css/main.css
-  - src/css/syntax.css
+  - /src/css/main.css
+  - /src/css/syntax.css
 
 collections:
   
