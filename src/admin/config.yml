@@ -7,8 +7,16 @@ backend:
   branch: main 
   site_url: https://vcnt.eu
   logo_url: https://vcnt.eu/images/logo.png
-media_folder: "public/images/uploads/2023"
-public_folder: "/images/uploads/2023"
+
+media_folder: "/src/images/uploads/2023"
+public_folder: "/public/images/uploads/2023"
+
+editor:
+  preview: true
+
+stylesheets:
+  - /css/main.css
+  - /css/syntax.css
 
 collections:
   - name: "blog"
@@ -17,11 +25,29 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: 
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "date" }
-      - { name: "previewImage", label: "Preview Image", widget: "image" }
-      - { name: "description", label: "Description", widget: "text" }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - { name: "postUrl", label: "Post URL", widget: "string", default: "{{ page.url | url }}" }
-   
-    
+      - label: "Title"
+        name: "title"
+        widget: "string"
+
+      - label: "Date"
+        name: "date"
+        widget: "date"
+
+      - name: "previewImage"
+        label: "Preview Image"
+        widget: "image"
+
+      - name: "description"
+        label: "Description"
+        widget: "text"
+
+      - name: "postUrl"
+        label: "Post URL"
+        widget: "string"
+        default: "{{ page.url | url }}"
+
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+
+ 
