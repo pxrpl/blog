@@ -5,7 +5,9 @@ site:
 backend:
   name: git-gateway
   branch: main 
-  logo_url: https://vcnt.eu/images/banner.svg
+  logo_url: https://vcnt.eu/images/banner.
+  site_url: https://vcnt.eu
+  display_url: https://vcnt.eu
 
 media_folder: "src/images/posts"
 public_folder: "/images/posts"
