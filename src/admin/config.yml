@@ -5,7 +5,7 @@ backend:
   logo_url: https://vcnt.eu/images/logo.png
 
 media_folder: "/src/images/uploads/2023"
-public_folder: "public/images/uploads/2023"
+
 
 editor:
   preview: true
