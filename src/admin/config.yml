@@ -1,3 +1,7 @@
+site:
+  stitle: vcnt.eu
+  baseUrl: https://example.com
+
 backend:
   name: git-gateway
   branch: main 
