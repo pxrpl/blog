@@ -32,3 +32,6 @@ collections:
           - { label: "Description", name: "description", widget: "text", required: false }
           - { label: "Post URL", name: "postUrl", widget: "string", default: "{{ page.url | url }}" }
           - { label: "Body", name: "body", widget: "markdown" }
+
+theme:
+  mode: dark
