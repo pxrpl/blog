@@ -15,9 +15,9 @@ Now, i just create a file in **Markdown**, put the title, the content and thats 
 
    The best part is that this blog is still programmed in html, the structure is the same, because thanks to **11ty**, it automatically converts your markdown files into HTML!
 
-I really recommend you to check it out, I used the [11ty.rocks](https://11ty.rocks)guide to convert mine.
+I really recommend you to check it out, I used the [11ty.rocks](https://11ty.rocks) guide to convert mine.
     
-   Thanks for reading! 
+Thanks for reading! 
 
    <img src="/images/Signature.svg" height="30">
 
