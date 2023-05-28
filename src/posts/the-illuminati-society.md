@@ -1,7 +1,7 @@
 ---
 title: The Illuminati Society
 date: 2023-05-28
-previewImage: https://vcnt.eu/images/uploads/2023/illuminati.png
+previewImage: /images/uploads/2023/illuminati.png
 description: explanation of The illuminaty society .
 postUrl: https://vcnt.eu/posts/the-illuminati-society/
 ---
