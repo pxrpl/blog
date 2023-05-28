@@ -1,9 +1,9 @@
 ---
-
 title: The simpler life of my blog
-
 date: 2023-05-27
-
+previewImage: /uploads/2023/1628645210-11ty-blog-tutorial.png
+description: "Hello, today i will give you a little introduction into 11ty. "
+postUrl: /posts/the-simpler-life-of-my-blog
 ---
      
      <p>Hello, welcome to my blog, in here, I'll post some things about coding and security. </p>
