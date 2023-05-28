@@ -22,10 +22,11 @@
           <div class="header">
               {% include "header.njk" %}
           </div>
-
+<br>
           <div id="home">
-          <h1>{{ title }}</h1>
+          <h1 class="post">{{ title }}</h1>
     <p class="meta">{{ date | formatDate }}</p>
+    <br>
   <div class="post">
   {{ content | safe }}
   </div>

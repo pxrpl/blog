@@ -91,6 +91,7 @@
   }
   
   .meta {
+    font-size: 17px;
     color: #aaa;
   }
   
@@ -128,6 +129,11 @@
   /*****************************************************************************/
   
   /* standard */
+
+  .post h1 {
+font-size: 20px;
+  }
+
   .post pre {
     border: 1px solid #ddd;
     background-color: #eef;
@@ -158,3 +164,7 @@
   .post pre.terminal code {
     background-color: #333;
   }
+
+  h1.post { 
+    font-size: 35px;
+    margin-bottom: 1em; }
