@@ -11,3 +11,4 @@ I used to have a complete site but I think its better to switch to a simpler sty
 See you around,
 
 <img src="/images/Signature.svg" height="30">
+

@@ -25,4 +25,6 @@ Over the years, the Illuminati society has been accused of wielding immense powe
 
 Central to the lore surrounding the Illuminati are its symbols and alleged hidden messages. The most recognizable symbol is the eye within a triangle, commonly referred to as the "All-Seeing Eye." It is believed to represent knowledge, enlightenment, and the society's watchful presence. Other symbols, such as the owl and the pyramid, have also been associated with the Illuminati, sparking interpretations and speculations about their deeper meanings.
 
+We know everything.
+
 <img src="/images/Signature.svg" height="30">
