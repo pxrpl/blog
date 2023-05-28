@@ -2,12 +2,9 @@
 title: The Illuminati Society
 date: 2023-05-28
 ---
+![origins.jpg](/images/uploads/origins.jpg)
 
-
-
-
-
-# Introduction 
+# Introduction
 
  <img src="/images/uploads/vault/illuminati.png" alt="Illuminati" height="200px" style="float: right; margin-left: 10px;">
 
