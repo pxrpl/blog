@@ -1,7 +1,7 @@
 ---
 title: The simpler life of my blog
 date: 2023-05-27
-previewImage: /public/images/uploads/2023/11tybanner.png
+previewImage: ""
 description: "Hello, today i will give you a little introduction into 11ty. "
 postUrl: /posts/the-simpler-life-of-my-blog
 ---
