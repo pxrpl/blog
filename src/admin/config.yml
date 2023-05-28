@@ -6,6 +6,15 @@ backend:
 media_folder: "public/images/uploads/2023"
 public_folder: "/images/uploads/2023"
 
+editor:
+
+  preview:
+
+    stylesheets:
+
+      - /css/main.css
+      - /css/syntax.css
+      
 collections:
   - name: "blog"
     label: "Blog"
