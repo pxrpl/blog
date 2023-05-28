@@ -15,5 +15,9 @@ collections:
     fields: 
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "date" }
+      - { name: "previewImage", label: "Preview Image", widget: "image" }
+      - { name: "description", label: "Description", widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - { name: "postUrl", label: "Post URL", widget: "string", default: "{{ page.url | url }}" }
    
+    
