@@ -3,8 +3,8 @@ backend:
   branch: main 
   site_url: https://vcnt.eu
   logo_url: https://vcnt.eu/images/logo.png
-media_folder: "public/images/uploads"
-public_folder: "/images/uploads"
+media_folder: "public/images/uploads/2023"
+public_folder: "/images/uploads/2023"
 
 collections:
   - name: "blog"
