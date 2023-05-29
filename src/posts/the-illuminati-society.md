@@ -13,7 +13,7 @@ For centuries, the Illuminati society has captivated the imaginations and fueled
 
 # Historical Origins
 
-<img src="/images/uploads/2023/origins.jpg" alt="Origins" height="150px" style="float: right; margin-left: 10px;">
+<img src="/images/uploads/2023/origins.jpg" alt="Origins" height="190" style="float: right; margin-left: 10px;">
 
 The roots of the Illuminati can be traced back to the 18th century Bavaria, Germany. Founded on May 1, 1776, by Adam Weishaupt, a professor of law, the Illuminati was initially a secret society committed to promoting enlightenment ideals and intellectual freedom. Weishaupt's vision was to challenge the oppressive power structures of the time and encourage critical thinking and rationality. However, the society's activities and intentions soon became the subject of suspicion and speculation.
 
