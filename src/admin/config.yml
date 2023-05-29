@@ -1,13 +1,14 @@
 site:
   stitle: vcnt.eu
   baseUrl: https://vcnt.eu
-
-backend:
-  name: git-gateway
-  branch: main 
   logo_url: https://vcnt.eu/images/banner.
   site_url: https://vcnt.eu
   display_url: https://vcnt.eu
+  
+backend:
+  name: git-gateway
+  branch: main 
+  
 
 media_folder: "src/images/posts"
 public_folder: "/images/posts"
