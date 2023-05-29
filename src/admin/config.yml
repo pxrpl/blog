@@ -1,9 +1,11 @@
+  logo_url: https://vcnt.eu/images/banner.svg
+  site_url: https://vcnt.eu
+  display_url: https://vcnt.eu
+
 site:
   stitle: vcnt.eu
   baseUrl: https://vcnt.eu
-  logo_url: https://vcnt.eu/images/banner.
-  site_url: https://vcnt.eu
-  display_url: https://vcnt.eu
+  
   
 backend:
   name: git-gateway
