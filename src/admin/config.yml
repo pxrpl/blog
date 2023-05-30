@@ -24,7 +24,7 @@ collections:
        slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
        fields: 
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "Date", name: "date", widget: "date" }
+          - { label: 'Date', name: 'date', widget: 'datetime', date_format: 'dd.MM.yyyy', time_format: false, format: 'yyyy-MM-dd' } # e.g. 2022-12-24
           - { label: "Preview Image", name: "previewImage", widget: "image", value_type: "string", default: "", media_library: { config: { fileMeta: [{ media_folder: "src/images/posts", public_folder: "/images/posts" }], allow_multiple: false }, enabled: true }, hint: "Enter the path to the preview image. Make sure to remove 'src/' from the path.", required: false, value_template: '{{ "/images/posts/" | concat: value | replace: "src/", "" | url_encode }}' }
           - { label: "Description", name: "description", widget: "text", required: false }
           - { label: "Post URL", name: "postUrl", widget: "string", default: "{{ page.url | url }}" }
